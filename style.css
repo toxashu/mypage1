@@ -5,7 +5,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #C0C0C0;
+  background-color: #f3f4f6;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
@@ -19,8 +19,8 @@ body {
 }
 
 .page-header {
-  margin: 0 0 160px;
-  padding: 32px 0 32px;
+  margin: 0 0 0;
+  padding: 10px 0 0;
 }
 
 .page-header .container,
@@ -57,7 +57,7 @@ body {
 }
 
 .heading {
-  margin: 0 0 16px;
+  margin: 0 0 -35px 0;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 88px;
   line-height: 96px;
@@ -75,7 +75,7 @@ body {
 }
 
 .subheading {
-  margin: 0 0 56px;
+  margin: 0 0 0;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 64px;
   line-height: 80px;
@@ -84,7 +84,7 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
+  margin: 0 0 0;
   text-align: center;
 }
 
@@ -151,7 +151,7 @@ body {
 }
 
 .project-image {
-  margin: 0 0 24px;
+  margin: 70px 0 24px;
   text-align: center;
 }
 
@@ -193,3 +193,4 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
